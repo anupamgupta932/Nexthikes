@@ -1,0 +1,5 @@
+Next Hikes/project 2
+Scrapping.py file contains code for scrapping data and saving scrapped data from python.org site
+new_article.txt file contains scrapped data.
+wordfrequency.py file contains code for open saved scrapped file and count word frequency of saved data.
+Word_Frequency.txt file contains data of word wise count details.
